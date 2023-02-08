@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\Test_Visual_sln.deps.json
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\Test_Visual_sln.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\Test_Visual_sln.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\Test_Visual_sln.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\obj\Debug\netcoreapp2.1\Test_Visual_sln.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\obj\Debug\netcoreapp2.1\Test_Visual_sln.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\obj\Debug\netcoreapp2.1\Test_Visual_sln.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\obj\Debug\netcoreapp2.1\Test_Visual_sln.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\bin\Debug\netcoreapp2.1\Test_Visual_sln.pdb
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\obj\Debug\netcoreapp2.1\Test_Visual_sln.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Mađar\Visual Test\TestVisual\Test_Visual_sln\Test_Visual_sln\obj\Debug\netcoreapp2.1\Test_Visual_sln.pdb
